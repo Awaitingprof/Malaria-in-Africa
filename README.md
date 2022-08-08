@@ -1,2 +1,3 @@
 # Malaria-in-Africa
 This project focuses on the development of malaria in Africa during the past two decades and gives a thorough knowledge of that development (2007-2017).
+In Africa, malaria is a widespread disease caused by mosquito bites and an untidy environment.It can be fatal even though it can be prevented by taking preventative measures. This dataset is gotten from kaggle. It contain all African countries from 2007 till 2017 as well as the unique country code, Latitude and Longitude of each country, and the preventive measure that have been taken to curtail Malaria in Africa. This project focuses on and provides a comprehensive understanding of how malaria has evolved in Africa over the last two decades (2007-2017).
