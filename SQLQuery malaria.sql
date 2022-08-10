@@ -15,7 +15,7 @@ SELECT Year,SUM(Malaria_reported) As Total_Case_Reported FROM [dbo].[Africa$] GR
 
 SELECT  SUM(Malaria_reported) AS Total_west_Africa FROM [dbo].[Africa$] WHERE Country IN ('Benin',  'Burkina Faso',  'Cape Verde',  'Cote Di voire', 'Gambia',  'Ghana', 'Guinea', 'Guinea_Bissau', 'Liberia',  'Mali',  'Mauritania',  'Niger',  'Nigeria', 'Senegal',  'sierra Leone',  'Togo');
 
-/*  Trend in Malaria Case Reported Over the year in West */
+/*  Trend in Malaria Case Reported Over the year in West Africa */
 
 SELECT Year, SUM(Malaria_reported) AS West_Africa FROM WHERE Country IN ('Benin',  'Burkina Faso',  'Cape Verde',  'Cote Di voire', 'Gambia',  'Ghana', 'Guinea', 'Guinea_Bissau', 'Liberia',  'Mali',  'Mauritania',  'Niger',  'Nigeria', 'Senegal',  'sierra Leone',  'Togo') Group BY Year ORDER BY West Africa;
 
