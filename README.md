@@ -8,7 +8,7 @@ In Africa, malaria is a widespread disease caused by mosquito bites and an untid
  Data Visualization 
  
  ## Data Cleaning 
- The dataset was downloaded in CSV(Comma Separated Values) format, and I converted it to excel format. The duplicated data was removed, and some special characters  were eliminated using find and replace in Full documentation is available at https://ebenezeradebiyi.wixsite.com/laconic-data/post/data-analysis-project-analysis-of- malaria-in-africa-from-2007-to-2017. 
+ The dataset was downloaded in CSV(Comma Separated Values) format, and I converted it to excel format. The duplicated data was removed, and some special characters  were eliminated using find and replace in Full documentation is available at https://ebenezeradebiyi.wixsite.com/laconic-data/post/data-analysis-project-analysis-of-malaria-in-africa-from-2007-to-2017
  
  ## Data Analysis
  The dataset was imported into Sequel (SQL) and analysed. The codes are shown below.
